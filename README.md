@@ -81,11 +81,6 @@ These build the foundation for IDS model training and Chatbot fine-tuning.
 - Continue research and course completions  
 
 ---
-## 🧩 UML Diagram for Chatbot Interface
-
-This diagram represents the chatbot interface flow and how it interacts with the IDS modules.
-
-![UML Diagram](image.png)
 
 
 ## 👩‍💻 Team
@@ -93,4 +88,12 @@ This diagram represents the chatbot interface flow and how it interacts with the
 **Team Members:**  
 - Walaa — AI/ML & Chatbot Development  
 - Raghad — Literature Review & ML Evaluation  
-- Reema & Majd — Model Implementation & Raspberry Pi Deployment  
+- Reema & Majd — Model Implementation & Raspberry Pi Deployment
+
+---
+## 🧩 UML Diagram for Chatbot Interface
+
+This diagram represents the chatbot interface flow and how it interacts with the IDS modules.
+
+![UML Diagram](image.png)
+
