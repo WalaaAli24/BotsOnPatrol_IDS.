@@ -83,7 +83,7 @@ These build the foundation for IDS model training and Chatbot fine-tuning.
 ---
 
 ## 👩‍💻 Team
-**Supervisor:** Dr. Jawad  
+**Advisor:** Dr. Jawad  
 **Team Members:**  
 - Walaa — AI/ML & Chatbot Development  
 - Raghad — Literature Review & ML Evaluation  
